@@ -14,7 +14,12 @@ spring:
     security:
         user:
             name: root
-            password:s3cr3t
+            password: s3cr3t
 
 
 
+
+
+=======
+                    uri:
+>>>>>>> parent of 5637553... Merge branch 'dev'
